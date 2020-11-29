@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/ic_home"
+        text="@string/home" />
+
+    <tab
+        drawable="@drawable/ic_search"
+        text="@string/search" />
+
+    <tab
+        drawable="@drawable/ic_cart"
+        text="@string/cart" />
+
+    <tab
+        drawable="@drawable/ic_settings"
+        text="@string/settings" />
+</tabs>
